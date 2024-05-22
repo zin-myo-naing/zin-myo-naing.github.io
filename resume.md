@@ -58,7 +58,7 @@ Myanmar Information Technology Pte. Ltd.					                Yangon, Myanmar
 
 SKILLS
 
-Microsoft Windows | Linux | Solaris | MacOS | Microsoft Office | Application Support | IT Help Desk Support | SQL | Database Management (Oracle Database, Microsoft SQL Server) | Microsoft 365 | Virtualization (VMware) | ITIL Best Practices | Apache Tomcat | Active Directory
+Microsoft Windows,Linux, Solaris, MacOS, Oracle Database, Oracle Weblogic, SQL, Microsoft SQL Server, VMware, Microsoft 365, Active Directory, Apache HTTP Server, Application Support, IT Help Desk Support
 
 
 EDUCATION

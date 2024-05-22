@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
 Zin Myo Naing
 +1 (416) 824-2627 | zinmyonaing7@gmail.com | 59 Viella Street, Toronto, ON M6N 5C6, Canada
 https://www.linkedin.com/in/zin-myo-naing-8a6460a0

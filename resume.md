@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[Download Resume](C:\Users\hninh\OneDrive\Desktop\RESUME\Custom_2\IT_Custom\Zin Myo Naing_Resume.pdf){: .btn .btn-primary}
+[Download Resume](C:\Users\hninh\OneDrive\Documents\GitHub\zin-myo-naing.github.io\Zin Myo Naing_Resume.pdf){: .btn .btn-primary}
 
 Zin Myo Naing
 

@@ -29,6 +29,8 @@ title: Projects
 ## [Fortune Fund Myanmar Project Ywat Thit](http://link-to-project.com)
 **Description:** Omni Cloud-based Core Banking Solution and mobile app solution effectively supports the entire business operations of a bank – from the front office through operational workflow, the back-office and accounting. As such diverse stakeholders interact and benefit from the solution – Tellers, Branch Officers, Loan Officers, Clerks, Managers, Business Heads, Back-office operators, Auditors and CXO team of a bank.
 
+![Image Alt Text](ffmcl.jpg)
+
 **Technologies Used:** AWS Servers, Microsoft Window Server, Microsoft SQL Server, Android APK, Functional Operations
 
 

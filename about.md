@@ -61,5 +61,4 @@ As an IT analyst, system engineer, and technical support engineer, I have over f
 
 - **Email**: zinmyonaing7@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/zin-myo-naing-8a6460a0
-##- **Website/Blog**: [Your Website/Blog](https://www.yourwebsite.com)
 - **Phone**: (416) 824-2627

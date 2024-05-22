@@ -10,7 +10,7 @@ As an IT analyst, system engineer, and technical support engineer, I have over f
 
 ## Professional Experience
 
-### [Seior IT Analyst], [Fortune Fund Myanmar Co., Ltd.] (2019 - 2023)
+### [Senior IT Analyst], [Fortune Fund Myanmar Co., Ltd.] (2019 - 2023)
 
 - **Responsibility 1**: Installed, configured, and maintained computer hardware, software, and peripherals.
 - **Responsibility 2**: Provided technical support for web and mobile applications of microfinance systems and end-users, troubleshooting                        hardware, software, and network issues via phone, email, and in person.

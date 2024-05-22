@@ -35,6 +35,7 @@ header_pages:
   - index.md
   - projects.md
   - about.md
+  - resume.md
   
 twitter_username: jekyllrb
 github_username:  jekyll
